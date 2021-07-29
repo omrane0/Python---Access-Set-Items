@@ -1,0 +1,8 @@
+thisset = {"apple", "banana", "cherry"}
+
+thisset.add("orange")
+
+print(thisset)
+
+
+{'orange', 'apple', 'cherry', 'banana'}
